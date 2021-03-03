@@ -7,3 +7,8 @@ Users will need to filter the table data for specific values.
 Automatic Table and Date Search
   - Create a basic HTML webpage
   - code should append a table
+  - code should allow you to filter the table by selecting a date.
+
+## Part 2:
+  - All of the functionality of Part 1 in a separtate folder marked UFO-level-2
+  - You should have code to allow you to also filter on any of the table body columns from the data source.
