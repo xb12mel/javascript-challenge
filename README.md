@@ -8,6 +8,8 @@ Automatic Table and Date Search
   - Create a basic HTML webpage
   - code should append a table
   - code should allow you to filter the table by selecting a date.
+  - filtered array should be visible if printed to the console and shold be pushed to the html.
+  - code should prevent the webpage from reloading.
 
 ## Part 2:
   - All of the functionality of Part 1 in a separtate folder marked UFO-level-2
