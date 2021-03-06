@@ -26,7 +26,7 @@ enterDate.on("click", () => {
 	d3.event.preventDefault();
 	tbody.html("");
 		// define how we capture the date selected
-	var inputDate = d3.select("#datetime");
+	var inputDate = d3.select("#datetime").node().value;
 	// get the date entered into the form and display it to the console
 	var date = inputDate.property("value");
 	console.log(date);
